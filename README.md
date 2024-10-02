@@ -1,2 +1,2 @@
 # Troubleshutting-WIndows-Client-OS-
-Bu bölümde  bu güne kadar karşılaştığım ve çözümünü buldüğum problemleri paylaşacağım
+In this section, I will share the problems I have encountered and found solutions to so far.
